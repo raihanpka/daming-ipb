@@ -2,6 +2,7 @@
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/raihanpka/daming-ipb/blob/master)
 
 Selamat datang! 👋
+
 Repositori ini berisi semua kode, notebook, gambar, dan materi lain yang terkait dengan Komunitas Data Mining (Daming) IPB.
 
 ## Tautan Cepat
@@ -41,5 +42,5 @@ Daftar isi berikut disusun berdasarkan urutan yang disarankan dan sesuai dengan 
 
 ## Kredit
 - Copyright © 2025 - Data Mining IPB
-- Disusun oleh: [Raihan PK](https://instagram.com/raihanpka)
+- Disusun oleh: [Raihan Putra Kirana](https://instagram.com/raihanpka)
 
