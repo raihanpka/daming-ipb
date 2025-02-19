@@ -37,7 +37,7 @@ Daftar isi berikut berisi urutan pembelajaran yang telah disusun berdasarkan uru
 
 1. Penguasaan Teknik Machine Learning: Memahami konsep dasar dan teknik-teknik utama, termasuk supervised dan unsupervised learning, deep learning, serta evaluasi dan optimisasi model.
 2. Keterampilan Pengolahan dan Analisis Data: Melakukan preprocessing, eksplorasi, dan feature engineering untuk mengolah data sehingga siap untuk dibangun menjadi model machine learning yang efektif.
-3. Pengalaman Proyek End-to-End: Mengerjakan proyek machine learning secara menyeluruh, mulai dari pengumpulan data hingga deployment model, sehingga siap menghadapi tantangan dunia nyata.
+3. Pengalaman Proyek dengan Challenge: Mengerjakan proyek machine learning secara menyeluruh, mulai dari pengumpulan data hingga deployment model, sehingga siap menghadapi tantangan dunia nyata.
 
 ## Kredit
 - Copyright © 2025 - Data Mining IPB
