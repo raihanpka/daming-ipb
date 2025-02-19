@@ -1,7 +1,8 @@
 # Data Mining IPB
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/raihanpka/daming-ipb/blob/master)Zero to Mastery Machine Learning
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/raihanpka/daming-ipb/blob/master)
 
-Selamat datang! Repositori ini berisi semua kode, notebook, gambar, dan materi lain yang terkait dengan Komunitas Data Mining (Daming) IPB.
+Selamat datang! 👋
+Repositori ini berisi semua kode, notebook, gambar, dan materi lain yang terkait dengan Komunitas Data Mining (Daming) IPB.
 
 ## Tautan Cepat
 
