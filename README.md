@@ -31,7 +31,7 @@ Daftar isi berikut berisi urutan pembelajaran yang telah disusun berdasarkan uru
 | 07 | [Pengenalan Deep Learning](https://dev.mrdbourke.com/zero-to-mastery-ml/end-to-end-bluebook-bulldozer-price-regression-v2/) | Memahami konsep dasar neural networks dan perbedaannya dengan machine learning tradisional. Pengenalan framework TensorFlow/Keras dan cara menjalankannya di Google Colab. |
 | 08 | [Membangun Neural Network Sederhana](https://dev.mrdbourke.com/zero-to-mastery-ml/end-to-end-dog-vision-v2/) | Memahami arsitektur dasar berupa input layer, hidden layers, dan output layer. Membangun dan melatih model neural network untuk klasifikasi digit (menggunakan dataset MNIST sederhana) |
 | 09 | [Optimasi dan Pengenalan Transfer Learning](https://dev.mrdbourke.com/zero-to-mastery-ml/communicating-your-work/) | Pengenalan teknik optimasi pada model deep learning (misalnya penggunaan optimizer seperti SGD dan Adam, penyesuaian learning rate). Pengenalan singkat tentang transfer learning dengan menggunakan model yang telah dilatih sebelumnya (misalnya MobileNet) untuk klasifikasi gambar sederhana. |
-| 10 | [Optimasi dan Pengenalan Transfer Learning](https://dev.mrdbourke.com/zero-to-mastery-ml/communicating-your-work/) | Membangun proyek deep learning sederhana secara end-to-end, misalnya klasifikasi gambar menggunakan dataset yang mudah (seperti CIFAR-10 atau subset dataset gambar). |
+| 10 | [Challenge 2](https://dev.mrdbourke.com/zero-to-mastery-ml/communicating-your-work/) | Membangun proyek deep learning sederhana secara end-to-end, misalnya klasifikasi gambar menggunakan dataset yang mudah (seperti CIFAR-10 atau subset dataset gambar). |
 
 ## Fokus Kursus
 
