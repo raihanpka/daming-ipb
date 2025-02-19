@@ -7,9 +7,8 @@ Repositori ini berisi semua kode, notebook, gambar, dan materi lain yang terkait
 
 ## Tautan Cepat
 
-* 🎥 Tonton [10 jam pertama kursus di YouTube](https://youtu.be/r67SfaiYaDI).
 * 📚 Baca materi kursus dalam bentuk [Website](https://dev.mrdbourke.com/zero-to-mastery-ml).
-* ❓ Punya pertanyaan? [Buat diskusi](https://github.com/raihanpka/daming-ipb/discussions)
+* ❓ Punya pertanyaan? [Buat diskusi di grup](https://chat.whatsapp.com/EJu7M2xUNliHMlnhXHwuN7)
 
 ## Pembaruan
 
@@ -17,7 +16,7 @@ Repositori ini berisi semua kode, notebook, gambar, dan materi lain yang terkait
 
 ## Isi Konten
 
-Daftar isi berikut disusun berdasarkan urutan yang disarankan dan sesuai dengan jalur pembelajaran pada pertemuan rutin.
+Daftar isi berikut berisi urutan pembelajaran yang telah disusun berdasarkan urutan yang disarankan dan sesuai dengan jalur pembelajaran pada pertemuan rutin.
 
 > **Catatan:** (Menyusul) Semua dataset yang digunakan dalam kursus ini tersedia di folder [`data/`](https://github.com/raihanpka/daming-ipb/tree/master/data).
 
