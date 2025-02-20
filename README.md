@@ -3,7 +3,11 @@
 
 Selamat datang! 👋
 
-Repositori ini berisi semua kode, notebook, gambar, dan materi lain yang terkait dengan Komunitas Data Mining (Daming) IPB.
+Repositori ini berisi semua kode, notebook, gambar, dan bahan materi lain yang terkait dengan Komunitas Data Mining (Daming) IPB.
+
+## Tentang Data Mining IPB (Daming IPB)
+
+Daming adalah komunitas untuk mahasiswa IPB University, khususnya untuk mahasiswa IPB yang mempunyai ketertarikan dengan dunia Data Science.
 
 ## Tautan Cepat
 
