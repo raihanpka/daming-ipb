@@ -37,7 +37,7 @@ Daftar isi berikut berisi urutan pembelajaran yang telah disusun berdasarkan uru
 | 09 | [Optimasi dan Pengenalan Transfer Learning](https://github.com/raihanpka/daming-ipb/tree/master/materi/09-optimization-and-transfer-learning) | Pengenalan teknik optimasi pada model deep learning (misalnya penggunaan optimizer seperti SGD dan Adam, penyesuaian learning rate). Pengenalan singkat tentang transfer learning dengan menggunakan model yang telah dilatih sebelumnya (misalnya MobileNet) untuk klasifikasi gambar sederhana. |
 | 10 | [Challenge 2](https://github.com/raihanpka/daming-ipb/tree/master/materi/challenge-2) | Membangun proyek deep learning sederhana secara end-to-end, misalnya klasifikasi gambar menggunakan dataset yang mudah (seperti CIFAR-10 atau subset dataset gambar). |
 
-## Fokus Kursus
+## Fokus Komunitas Data Mining
 
 1. Penguasaan Teknik Machine Learning: Memahami konsep dasar dan teknik-teknik utama, termasuk supervised dan unsupervised learning, deep learning, serta evaluasi dan optimisasi model.
 2. Keterampilan Pengolahan dan Analisis Data: Melakukan preprocessing, eksplorasi, dan feature engineering untuk mengolah data sehingga siap untuk dibangun menjadi model machine learning yang efektif.
