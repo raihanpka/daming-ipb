@@ -1,21 +1,15 @@
-#!/usr/bin/env python3
-"""
-Real-time emoji display based on camera pose and facial expression detection.
-"""
-
 import cv2
 import mediapipe as mp
 import numpy as np
 
-# Initialize MediaPipe
 mp_pose = mp.solutions.pose
 mp_face_mesh = mp.solutions.face_mesh
 mp_drawing = mp.solutions.drawing_utils
 
-# Configuration
+# Konfigurasi
 SMILE_THRESHOLD = 0.35
 WINDOW_WIDTH = 720
-WINDOW_HEIGHT = 450
+WINDOW_HEIGHT = 480
 EMOJI_WINDOW_SIZE = (WINDOW_WIDTH, WINDOW_HEIGHT)
 
 # Load emoji images
@@ -55,17 +49,11 @@ if not cap.isOpened():
     exit()
 
 cv2.namedWindow('Sticker Output', cv2.WINDOW_NORMAL)
-cv2.namedWindow('Camera Window', cv2.WINDOW_NORMAL)
-cv2.resizeWindow('Camera Window', WINDOW_WIDTH, WINDOW_HEIGHT)
+cv2.namedWindow('Webcam Window', cv2.WINDOW_NORMAL)
+cv2.resizeWindow('Webcam Window', WINDOW_WIDTH, WINDOW_HEIGHT)
 cv2.resizeWindow('Sticker Output', WINDOW_WIDTH, WINDOW_HEIGHT)
-cv2.moveWindow('Camera Window', 100, 100)
+cv2.moveWindow('Webcam Window', 100, 100)
 cv2.moveWindow('Sticker Output', WINDOW_WIDTH + 150, 100)
-
-print("Kontrol:")
-print("  Tekan 'q' untuk keluar")
-print("  Angkat tangan di atas kepala untuk emoji waduh")
-print("  Tersenyum untuk emoji senyum")
-print("  Wajah datar untuk emoji netral")
 
 with mp_pose.Pose(min_detection_confidence=0.5, min_tracking_confidence=0.5) as pose, \
      mp_face_mesh.FaceMesh(max_num_faces=1, min_detection_confidence=0.5) as face_mesh:
@@ -184,7 +172,7 @@ with mp_pose.Pose(min_detection_confidence=0.5, min_tracking_confidence=0.5) as 
         cv2.putText(camera_frame_resized, 'Tekan "q" untuk keluar', (10, WINDOW_HEIGHT - 20),
                 cv2.FONT_HERSHEY_SIMPLEX, 0.6, (0, 255, 255), 2, cv2.LINE_AA)
 
-        cv2.imshow('Camera Window', camera_frame_resized)
+        cv2.imshow('Webcam Window', camera_frame_resized)
         cv2.imshow('Sticker Output', emoji_to_display)
 
         if cv2.waitKey(5) & 0xFF == ord('q'):
